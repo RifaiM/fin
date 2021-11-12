@@ -2,6 +2,8 @@
 
 body {
     font-family: 'Manrope', sans-serif;
+    min-height: 100vh;
+    position: relative;
 }
 
 /* Navbar-top */
@@ -57,14 +59,13 @@ a img {
 
 /* Footer */
 
-footer {
-    background-color: rgba(229, 229, 229, 0.5);
+.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
+    background-color: rgba(229, 229, 229, 0.5);
 }
 
-footer .container {
-    width : auto;
-    max-width : 680px;
+.footer .container {
+    width: auto;
 }
