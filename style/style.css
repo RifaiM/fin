@@ -64,7 +64,7 @@ footer {
     width: 100%;
 }
 
-footer > container {
+footer .container {
     width : auto;
     max-width : 680px;
 }
