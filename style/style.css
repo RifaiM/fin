@@ -63,3 +63,8 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+footer > container {
+    width : auto;
+    max-width : 680px;
+}
