@@ -70,6 +70,8 @@ a img {
     width: auto;
 }
 
+/* Back to top Btn */
+
 #btn-back-to-top {
     position: fixed;
     bottom: 100px;
