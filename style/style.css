@@ -107,3 +107,18 @@ audio {
     left: 10px !important;
     transform: translate(0, 0) !important;
 }
+
+/* btn-group social */
+
+.bi-whatsapp, 
+.bi-instagram,
+.bi-envelope {
+    position: relative;
+    transition: bottom ease-in-out;
+}
+
+.bi-whatsapp:hover, 
+.bi-instagram:hover,
+.bi-envelope:hover {
+    bottom: -3px;
+}
